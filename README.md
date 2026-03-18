@@ -12,6 +12,9 @@ Student developer building AI tools, full-stack apps, and useful systems for stu
 ## Tech stack
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
