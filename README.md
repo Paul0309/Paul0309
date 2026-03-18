@@ -1,36 +1,50 @@
-### Hi there 👋
-### Paul Kang
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0309&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0309&layout=compact&theme=default)
+<h1 align="left">Hi, I'm Paul Kang 👋</h1>
 
-<!--
-**Paul0309/Paul0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Student developer building AI tools, full-stack apps, and useful systems for students.
+</p>
 
-Here are some ideas to get you started:
+## About me
+- I'm a student who enjoys building practical software and turning ideas into real products
+- Interested in AI, full-stack development, product design, and student-focused tools
+- Currently exploring better ways to organize school, learning, and workflows through software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
+## Current focus
+- Building better tools for students
+- Improving full-stack engineering and product thinking
+- Creating cleaner UI/UX and assistant-first experiences
+- Learning by shipping real projects
 
+## Featured interests
+- AI-powered study tools
+- Productivity systems
+- Full-stack web apps
+- Automation and workflow design
+- Product-oriented development
 
-<!--
-**Paul0309/Paul0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paul0309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0309&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+## Contact
+- GitHub: [@Paul0309](https://github.com/Paul0309)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="left">
+  <i>Always building, always improving.</i>
+</p>
